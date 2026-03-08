@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 dt = 0.01
-m = 1
-k = 40 
+m = 2
+k = 200 
 f = 0.025
 
 t = np.arange(0,20,dt)
